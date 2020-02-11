@@ -1,5 +1,6 @@
 html,
-	body {
+    body 
+    {
 	  height: 100%;
 	  width: 100%;
 	}
@@ -10,10 +11,10 @@ html,
 #menu
 {
     background-color:orange;
-    float left;
-    width 150px;
-    height 100%;
-    font size 20px;
+    float: left;
+    width: 150px;
+    height: 100%;
+    font-size: 20px;
 }
 #menu ul li
 {
